@@ -45,6 +45,14 @@ summary.aov(model1)
 ```
 The probability of getting these results are one out of ten thousand. Now a further investigation is needed to see which seats are different from the others.
 
+
+```{r}
+par(mar = c(3, 8.7, 2, 2))
+plot(TukeyHSD(model1),las=2)
+```
+
+The front back and the back are different  the middle and the front are not different. The back is different from the middle and the front.
+
 ## Conclusions
 
 
