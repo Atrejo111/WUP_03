@@ -55,4 +55,5 @@ The front back and the back are different  the middle and the front are not diff
 
 ## Conclusions
 
-
+I did a boxplot that showed visably the results and differences of how much of what row drinks alcohol. Then I did a summary of the numerical results which showed that the back seat drank twice as much than the front and middle seat. I then ran a inferential test which was different than a running test comparing two categories.
+When there are three or more things to compare you run a qualifying test that one way anova. When you run your inferential test and the probability is between 0 and 1 than you need to investigate further the results and run another test.
